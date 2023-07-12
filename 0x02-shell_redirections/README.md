@@ -1,1 +1,2 @@
-Write a script that displays a confused smiley 
+ Lets display a file > README.md
+echo  Lets display a file
