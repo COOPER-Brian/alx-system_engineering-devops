@@ -1,2 +1,1 @@
- Lets display a file > README.md
-echo  Lets display a file
+Display the content of /etc/passwd and /etc/hosts
